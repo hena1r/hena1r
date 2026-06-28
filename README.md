@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Hena Rehal 👋
 
-<!--
-**hena1r/hena1r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AWS DevOps Engineer | Kubernetes | Terraform | CI/CD | BFSI Domain
 
-Here are some ideas to get you started:
+## About Me
+- 🔭 5+ years of experience in DevOps and Cloud Infrastructure
+- 🏦 Previously built production infrastructure for National Stock Exchange (NSE)
+- 🌍 Based in Pune, India
+- 📫 Reach me at: hennaiit.8@gmail.com
+- 💼 LinkedIn: linkedin.com/in/hena-rehal-0431ba1ac
+- 🌱 Currently preparing for Kubernetes certification (KCNA)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+**Cloud:** AWS (EKS, EC2, VPC, S3, RDS, ECR, CloudWatch)
+
+**Containers:** Kubernetes, Docker, Helm, ArgoCD
+
+**CI/CD:** Jenkins, GitLab CI, JFrog Artifactory
+
+**IaC:** Terraform, Ansible, CloudFormation
+
+**Monitoring:** Prometheus, Grafana, ELK, CloudWatch
+
+**Languages:** Python, Bash, Groovy
