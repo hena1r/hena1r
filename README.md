@@ -7,7 +7,8 @@ AWS DevOps Engineer | Kubernetes | Terraform | CI/CD | BFSI Domain
 - 🏦 Previously built production infrastructure for National Stock Exchange (NSE)
 - 🌍 Based in Pune, India
 - 📫 Reach me at: hennaiit.8@gmail.com
-- 💼 LinkedIn: linkedin.com/in/hena-rehal-0431ba1ac
+- 💼 LinkedIn: [linkedin.com/in/hena-rehal-0431ba1ac]
+(https://linkedin.com/in/hena-rehal-0431ba1ac)
 - 🌱 Currently preparing for Kubernetes certification (KCNA)
 
 ## Tech Stack
